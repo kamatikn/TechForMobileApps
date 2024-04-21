@@ -24,10 +24,10 @@ the "Cooking Guide" app is designed to be a comprehensive cooking companion, off
 
 
 <center><img style="width: 250px ; height: auto;" src="CookingGuide/Images/1.jpg" /></center>
-<center><img src="CookingGuide/Images/2.jpg" /></center>
-<center><img src="CookingGuide/Images/3.jpg" /></center>
-<center><img src="CookingGuide/Images/4.jpg" /></center>
-<center><img src="CookingGuide/Images/5.jpg" /></center>
+<center><img style="width: 250px ; height: auto;" src="CookingGuide/Images/2.jpg" /></center>
+<center><img style="width: 250px ; height: auto;" src="CookingGuide/Images/3.jpg" /></center>
+<center><img style="width: 250px ; height: auto;" src="CookingGuide/Images/4.jpg" /></center>
+<center><img style="width: 250px ; height: auto;" src="CookingGuide/Images/5.jpg" /></center>
 
 # here is the code for application
 [CookingGuide/App.js](CookingGuide/App.js)
