@@ -22,7 +22,7 @@ the "Cooking Guide" app is designed to be a comprehensive cooking companion, off
 - Search
 # Recipes App in React Native
 
-<center><a href="https://instamobile.io/app-templates/food-app-template/"><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></a></center>
+<center><img src="https://www.instamobile.io/wp-content/uploads/2019/07/Screen-Shot-2019-07-22-at-8.56.44-PM.png" /></center>
 
 # here is the code for application
 [CookingGuide/App.js](CookingGuide/App.js)
