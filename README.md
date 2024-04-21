@@ -20,7 +20,7 @@ the "Cooking Guide" app is designed to be a comprehensive cooking companion, off
 - Ingredients List
 - Recipes by Ingredient
 - Search
-# Recipes App in React Native
+# App in Expo Go - Screenshots 
 
 
 <center><img src="Images/1.jpeg" /></center>
