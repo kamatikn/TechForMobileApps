@@ -23,11 +23,11 @@ the "Cooking Guide" app is designed to be a comprehensive cooking companion, off
 # App in Expo Go - Screenshots 
 
 
-<center><img src="Images/1.jpeg" /></center>
-<center><img src="Images/2.jpeg" /></center>
-<center><img src="Images/3.jpeg" /></center>
-<center><img src="Images/4.jpeg" /></center>
-<center><img src="Images/5.jpeg" /></center>
+<center><img src="CookingGuide/Images/1.jpg" /></center>
+<center><img src="CookingGuide/Images/2.jpg" /></center>
+<center><img src="CookingGuide/Images/3.jpg" /></center>
+<center><img src="CookingGuide/Images/4.jpg" /></center>
+<center><img src="CookingGuide/Images/5.jpg" /></center>
 
 # here is the code for application
 [CookingGuide/App.js](CookingGuide/App.js)
