@@ -23,7 +23,7 @@ the "Cooking Guide" app is designed to be a comprehensive cooking companion, off
 # App in Expo Go - Screenshots 
 
 
-<center><img style="width: 50px ; height: auto;" src="CookingGuide/Images/1.jpg" /></center>
+<center><img style="width: 250px ; height: auto;" src="CookingGuide/Images/1.jpg" /></center>
 <center><img src="CookingGuide/Images/2.jpg" /></center>
 <center><img src="CookingGuide/Images/3.jpg" /></center>
 <center><img src="CookingGuide/Images/4.jpg" /></center>
