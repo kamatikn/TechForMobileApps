@@ -1,7 +1,7 @@
 # Tech for mobile apps
 ## Personal Mobile App Project Final 
 ## Cooking Guide
-##  Team 30
+##  Team 29
 Name: 
 1 Kamati Kalyan-(M15891125)
 2 Samskruthi Reddy Musku-(M15891416)
